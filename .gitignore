@@ -127,4 +127,5 @@ cython_debug/
 
 # Custom
 /home/abhaya/Desktop/fafaFInal/myWork/src/models/*.pkl
-/home/abhaya/Desktop/fafaFInal/myWork/src/data/*.csv.venv/
+myWork/src/data/image_feature_vectors.csv
+myWork/src/data/preprocessed_image_feature_vectors.csv
